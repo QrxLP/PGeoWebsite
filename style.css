@@ -23,13 +23,18 @@ h1
 
 }
 
-h2
+.footer
 {
     background-color: rgb(36,36,36);
     font-size: small;
-    font-style: normal;
+    font-style: inherit;
     padding: 50px;
-    
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 2em;
     
 
 

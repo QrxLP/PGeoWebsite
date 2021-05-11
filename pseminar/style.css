@@ -3,7 +3,12 @@ body
     background-color: rgb(30, 30,30 );
     color: white;
     text-align: center;
-    font-family: Segoe UI
+    font-family: Segoe UI;
+    
+
+    margin: 0px;
+    padding: 0px;
+    
     
 }
 
@@ -23,6 +28,8 @@ h2
     background-color: rgb(36,36,36);
     font-size: small;
     font-style: normal;
+    padding: 50px
+
 }
 
 .gallery
